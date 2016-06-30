@@ -1,0 +1,9 @@
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\obj\Debug\MidTermExamGUI.Form1.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\obj\Debug\MidTermExamGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\obj\Debug\MidTermExamGUI.csproj.GenerateResource.Cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\bin\Debug\MidTermExamGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\bin\Debug\MidTermExamGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\bin\Debug\MidTermExamGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\obj\Debug\MidTermExamGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\obj\Debug\MidTermExamGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\MidTermExamGUI\MidTermExamGUI\MidTermExamGUI\obj\Debug\MidTermExamGUI.pdb

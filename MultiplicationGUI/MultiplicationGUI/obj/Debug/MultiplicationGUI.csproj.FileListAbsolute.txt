@@ -1,0 +1,9 @@
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\bin\Debug\MultiplicationGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\bin\Debug\MultiplicationGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\bin\Debug\MultiplicationGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\obj\Debug\MultiplicationGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\obj\Debug\MultiplicationGUI.multiplicationTable.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\obj\Debug\MultiplicationGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\obj\Debug\MultiplicationGUI.csproj.GenerateResource.Cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\obj\Debug\MultiplicationGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (7)\MultiplicationGUI\MultiplicationGUI\obj\Debug\MultiplicationGUI.pdb

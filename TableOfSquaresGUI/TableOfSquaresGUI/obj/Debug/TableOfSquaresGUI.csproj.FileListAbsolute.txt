@@ -1,0 +1,9 @@
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.tableOfSquares.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.csproj.GenerateResource.Cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (5)\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.pdb

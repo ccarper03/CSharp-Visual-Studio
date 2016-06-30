@@ -1,0 +1,9 @@
+F:\Chapter 3\DistanceGUI\DistanceGUI\bin\Debug\DistanceGUI.exe.config
+F:\Chapter 3\DistanceGUI\DistanceGUI\bin\Debug\DistanceGUI.exe
+F:\Chapter 3\DistanceGUI\DistanceGUI\bin\Debug\DistanceGUI.pdb
+F:\Chapter 3\DistanceGUI\DistanceGUI\obj\Debug\DistanceGUI.csprojResolveAssemblyReference.cache
+F:\Chapter 3\DistanceGUI\DistanceGUI\obj\Debug\DistanceGUI.Form1.resources
+F:\Chapter 3\DistanceGUI\DistanceGUI\obj\Debug\DistanceGUI.Properties.Resources.resources
+F:\Chapter 3\DistanceGUI\DistanceGUI\obj\Debug\DistanceGUI.csproj.GenerateResource.Cache
+F:\Chapter 3\DistanceGUI\DistanceGUI\obj\Debug\DistanceGUI.exe
+F:\Chapter 3\DistanceGUI\DistanceGUI\obj\Debug\DistanceGUI.pdb

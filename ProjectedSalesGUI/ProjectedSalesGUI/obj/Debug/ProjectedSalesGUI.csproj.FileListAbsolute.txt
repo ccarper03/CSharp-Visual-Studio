@@ -1,0 +1,21 @@
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.exe.config
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.exe
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.pdb
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.csprojResolveAssemblyReference.cache
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.Form1.resources
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.Properties.Resources.resources
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.csproj.GenerateResource.Cache
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.exe
+F:\Chapter 3\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.Form1.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.csproj.GenerateResource.Cache
+F:\WorkSample\C# Visual Studio 2012\ProjectedSalesGUI\ProjectedSalesGUI\bin\Debug\ProjectedSalesGUI.exe.config
+F:\WorkSample\C# Visual Studio 2012\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.exe
+F:\WorkSample\C# Visual Studio 2012\ProjectedSalesGUI\ProjectedSalesGUI\obj\Debug\ProjectedSalesGUI.pdb

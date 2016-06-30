@@ -1,0 +1,27 @@
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Form1.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csproj.GenerateResource.Cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (12)\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.pdb
+E:\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe.config
+E:\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.exe
+E:\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.pdb
+E:\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe
+E:\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.pdb
+E:\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csprojResolveAssemblyReference.cache
+E:\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Form1.resources
+E:\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Properties.Resources.resources
+E:\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csproj.GenerateResource.Cache
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe.config
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.exe
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.pdb
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.pdb
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csprojResolveAssemblyReference.cache
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Form1.resources
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Properties.Resources.resources
+F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csproj.GenerateResource.Cache

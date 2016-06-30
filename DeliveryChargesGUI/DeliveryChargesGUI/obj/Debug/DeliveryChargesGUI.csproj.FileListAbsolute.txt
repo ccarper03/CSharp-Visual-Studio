@@ -1,0 +1,9 @@
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\bin\Debug\DeliveryChargesGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\bin\Debug\DeliveryChargesGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\bin\Debug\DeliveryChargesGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\obj\Debug\DeliveryChargesGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\obj\Debug\DeliveryChargesGUI.deliveryCharges.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\obj\Debug\DeliveryChargesGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\obj\Debug\DeliveryChargesGUI.csproj.GenerateResource.Cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\obj\Debug\DeliveryChargesGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (6)\DeliveryChargesGUI\DeliveryChargesGUI\obj\Debug\DeliveryChargesGUI.pdb

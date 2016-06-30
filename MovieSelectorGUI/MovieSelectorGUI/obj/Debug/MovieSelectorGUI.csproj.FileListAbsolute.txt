@@ -1,0 +1,9 @@
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\bin\Debug\MovieSelectorGUI.exe.config
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\bin\Debug\MovieSelectorGUI.exe
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\bin\Debug\MovieSelectorGUI.pdb
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\obj\Debug\MovieSelectorGUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\obj\Debug\MovieSelectorGUI.Form1.resources
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\obj\Debug\MovieSelectorGUI.Properties.Resources.resources
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\obj\Debug\MovieSelectorGUI.csproj.GenerateResource.Cache
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\obj\Debug\MovieSelectorGUI.exe
+D:\OneDrive\DTCC Spring - 15\Visual C#\Chapter (13)\MovieSelectorGUI\MovieSelectorGUI\obj\Debug\MovieSelectorGUI.pdb

@@ -1,0 +1,12 @@
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe.config
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.pdb
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.csprojResolveAssemblyReference.cache
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.Form1.resources
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.Properties.Resources.resources
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.csproj.GenerateResource.Cache
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.exe
+F:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (3)\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.pdb

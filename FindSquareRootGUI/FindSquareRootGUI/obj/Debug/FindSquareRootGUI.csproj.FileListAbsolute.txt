@@ -1,0 +1,9 @@
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\bin\Debug\FindSquareRootGUI.exe.config
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\obj\Debug\FindSquareRootGUI.csprojResolveAssemblyReference.cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\obj\Debug\FindSquareRootGUI.Form1.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\obj\Debug\FindSquareRootGUI.Properties.Resources.resources
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\obj\Debug\FindSquareRootGUI.csproj.GenerateResource.Cache
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\bin\Debug\FindSquareRootGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\bin\Debug\FindSquareRootGUI.pdb
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\obj\Debug\FindSquareRootGUI.exe
+C:\Users\ccarp_000\OneDrive\DTCC Spring - 15\Visual C#\Chapter (11)\FindSquareRootGUI\FindSquareRootGUI\obj\Debug\FindSquareRootGUI.pdb
