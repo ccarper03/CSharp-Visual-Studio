@@ -10,3 +10,12 @@ F:\Chapter 4\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.pdb
 D:\Desktop\WorkSample\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\bin\Debug\AdmissionGUI.exe.config
 D:\Desktop\WorkSample\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.exe
 D:\Desktop\WorkSample\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.pdb
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\bin\Debug\AdmissionGUI.exe.config
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.exe
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.pdb
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\bin\Debug\AdmissionGUI.exe
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\bin\Debug\AdmissionGUI.pdb
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.csprojResolveAssemblyReference.cache
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.Form1.resources
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.Properties.Resources.resources
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\AdmissionGUI\AdmissionGUI\obj\Debug\AdmissionGUI.csproj.GenerateResource.Cache

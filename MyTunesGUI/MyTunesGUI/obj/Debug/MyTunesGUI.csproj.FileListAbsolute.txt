@@ -25,3 +25,12 @@ F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csprojResolveAssemblyRe
 F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Form1.resources
 F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Properties.Resources.resources
 F:\Chapter 12\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csproj.GenerateResource.Cache
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe.config
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.exe
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.pdb
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.exe
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\bin\Debug\MyTunesGUI.pdb
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csprojResolveAssemblyReference.cache
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Form1.resources
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.Properties.Resources.resources
+D:\Carper\Documents\EducationDoc\DTCC\C# Visual Studio 2012\MyTunesGUI\MyTunesGUI\obj\Debug\MyTunesGUI.csproj.GenerateResource.Cache
